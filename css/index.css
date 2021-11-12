@@ -1,0 +1,31 @@
+h1{
+    color: rgb(52, 110, 50);
+}
+html{
+    background-color: aquamarine;
+    color: rgb(0, 182, 45);
+}
+h1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+th {
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+ul#table{
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+    align-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+thead{
+    color: rgb(0, 141, 47);
+}
+button#tabla{
+    display: flex;
+    align-items: center;
+}
